@@ -15,8 +15,6 @@
     $selisihUmur = $umur - $umurAdik ;
     echo "Selisih usia saya dan adik saya adalah $selisihUmur tahun. "
 
-
-
 ?>
 
 
