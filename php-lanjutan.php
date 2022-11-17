@@ -109,11 +109,11 @@ echo $pesan;
                 case "Felitia";
                     $pesan = $_POST['nama']." adalah orang Manado";
                 break;
-                case "Maantik";
+                case "Mantik";
                     $pesan = $_POST['nama']." berasal dari pulau Sulawesi";
                 break;
                 default;
-                    $pesan = $_POST['nama']." darimana ya?";
+                    $pesan = $_POST['nama']." sedang apa yaa?";
             }
 
             for ($i=0;$i<$_POST['no'];$i++) {
